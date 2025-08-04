@@ -1,0 +1,4 @@
+[window]
+padding = { x = 10, y = 10 }
+[font]
+normal = { family = "IBM Plex Mono" }
