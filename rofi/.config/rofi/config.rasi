@@ -1,0 +1,13 @@
+configuration {
+  modi: "drun,run";
+  font: "JetBrainsMono Nerd Font 13";
+  show-icons: true;
+  terminal: "alacritty";
+}
+
+* {
+  background: #f7f6f3;
+  foreground: #4a4a4a;
+  selected-background: #94b0da;
+  selected-foreground: #ffffff;
+}

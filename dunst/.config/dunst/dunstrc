@@ -1,0 +1,24 @@
+[global]
+font = "JetBrainsMono Nerd Font 11"
+frame_color = "#94b0da"
+separator_height = 2
+padding = 8
+horizontal_padding = 8
+transparency = 0
+corner_radius = 8
+
+[urgency_low]
+background = "#f7f6f3"
+foreground = "#4a4a4a"
+timeout = 3
+
+[urgency_normal]
+background = "#f7f6f3"
+foreground = "#4a4a4a"
+timeout = 5
+
+[urgency_critical]
+background = "#d8a48f"
+foreground = "#ffffff"
+frame_color = "#b86f50"
+timeout = 0

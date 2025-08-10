@@ -1,4 +1,22 @@
 [window]
 padding = { x = 10, y = 10 }
+decorations = "Full"
+opacity = 0.95
+
 [font]
-normal = { family = "IBM Plex Mono" }
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+size = 13
+
+[colors.primary]
+background = "#f7f6f3"
+foreground = "#4a4a4a"
+
+[colors.normal]
+black = "#4a4a4a"
+red = "#d87c7c"
+green = "#8bb174"
+yellow = "#d8a48f"
+blue = "#94b0da"
+magenta = "#b19cd9"
+cyan = "#82c0cc"
+white = "#f7f6f3"
