@@ -1,3 +1,5 @@
+@import "./themes/rose-pine-dawn.css";
+
 * {
   padding: 0;
   min-height: 0;
@@ -8,9 +10,9 @@
 }
 
 window#waybar {
-  background: lavender;
+  background: @surface;
 }
 
 #workspaces button.active {
-  background-color: pink;
+  background-color: @rose;
 }
